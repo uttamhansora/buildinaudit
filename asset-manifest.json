@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.03ac965c.css",
-    "main.js": "/static/js/main.c2ebc669.js",
+    "main.css": "/static/css/main.a7238733.css",
+    "main.js": "/static/js/main.173ca8cd.js",
     "static/js/453.dbb8352b.chunk.js": "/static/js/453.dbb8352b.chunk.js",
     "static/media/WS8.webp": "/static/media/WS8.45ec1467ba8795a7247d.webp",
     "static/media/career.svg": "/static/media/career.f0202344148991082a8190f7cbd55dba.svg",
@@ -22,7 +22,6 @@
     "static/media/Consultancy.webp": "/static/media/Consultancy.40fd83bbd8b9543025ec.webp",
     "static/media/schoolJ.png": "/static/media/schoolJ.6ff7290a31a2cfaff40c.png",
     "static/media/Courses.webp": "/static/media/Courses.8e3969601a719c56db0c.webp",
-    "static/media/Share.png": "/static/media/Share.edbbef2a27d41e80cea4.png",
     "static/media/aboutLandingA.webp": "/static/media/aboutLandingA.345166510b412d8481e0.webp",
     "static/media/module.png": "/static/media/module.d295320b556fc7f2822f.png",
     "static/media/schoolA.svg": "/static/media/schoolA.eadf58327c06e700b5bf5b9a297f1ae6.svg",
@@ -93,7 +92,6 @@
     "static/media/teacherstudent.png": "/static/media/teacherstudent.ec19c0c7c3e991c50b1b.png",
     "static/media/storyC.webp": "/static/media/storyC.c6006d028e3731fb6617.webp",
     "static/media/ruchi.png": "/static/media/ruchi.f2ce62afe4094b7aea47.png",
-    "static/media/liwa.png": "/static/media/liwa.9f457c8de455adafbafa.png",
     "static/media/person.png": "/static/media/person.13384bf700c11f359465.png",
     "static/media/science.svg": "/static/media/science.63ec25a86a35548be67d421dc848fc81.svg",
     "static/media/accounting.svg": "/static/media/accounting.33702d908a74a7238993026427da2138.svg",
@@ -120,12 +118,12 @@
     "static/media/logout.svg": "/static/media/logout.c6ff9ce6df4d14487d910389776e2ec6.svg",
     "static/media/aboutLandingArrowB.svg": "/static/media/aboutLandingArrowB.b21da6569a9b0880ea68431d57f4b164.svg",
     "static/media/aboutLandingArrowA.svg": "/static/media/aboutLandingArrowA.5bb0ba361776018c3f9d86154fe012ed.svg",
-    "main.03ac965c.css.map": "/static/css/main.03ac965c.css.map",
-    "main.c2ebc669.js.map": "/static/js/main.c2ebc669.js.map",
+    "main.a7238733.css.map": "/static/css/main.a7238733.css.map",
+    "main.173ca8cd.js.map": "/static/js/main.173ca8cd.js.map",
     "453.dbb8352b.chunk.js.map": "/static/js/453.dbb8352b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.03ac965c.css",
-    "static/js/main.c2ebc669.js"
+    "static/css/main.a7238733.css",
+    "static/js/main.173ca8cd.js"
   ]
 }
